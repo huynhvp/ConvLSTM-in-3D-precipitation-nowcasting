@@ -13,7 +13,7 @@ We implement an application of Convolutional Long-Short Term Memory neural netwo
 * Quantitative evaluation
 ![](../master/Image/result_1.png)
 
-* Visualization
+* Horizotal & Vertical evolution of rainfall
 1.
 ![](../master/Image/image1.gif)
 ![](../master/Image/image5.gif)
