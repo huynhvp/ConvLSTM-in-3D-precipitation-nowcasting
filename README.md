@@ -6,5 +6,5 @@ We implement an application of Convolutional Long-Short Term Memory neural netwo
 
 ### ConvLSTM
 ![](../master/Image/conv_1.png)
-### Conditional ConvLSTM
+### Conditional ConvLSTM: combine with optical-flow based forecasting 
 ![](../master/Image/conv_2.png)
