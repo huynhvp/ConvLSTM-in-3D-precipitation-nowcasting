@@ -14,7 +14,10 @@ We implement an application of Convolutional Long-Short Term Memory neural netwo
 ![](../master/Image/result_1.png)
 
 * Visualization
+1.
 ![](../master/Image/image1.gif)
 ![](../master/Image/image5.gif)
 
-
+2.
+![](../master/Image/image4.gif)
+![](../master/Image/image8.gif)
