@@ -10,10 +10,10 @@ We implement an application of Convolutional Long-Short Term Memory neural netwo
 ![](../master/Image/conv_2.png)
 
 ## Comparision in term of 3 metrics: MSE, B-MSE, threat score CSI
-* Quantitative evaluation
+* **Quantitative evaluation**
 ![](../master/Image/result_1.png)
 
-* Horizotal & Vertical evolution of rainfall
+* **Horizotal & Vertical evolution of rainfall**
 1.
 ![](../master/Image/image1.gif)
 ![](../master/Image/image5.gif)
